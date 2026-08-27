@@ -60,8 +60,18 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+<img width="772" height="652" alt="Screenshot 2026-08-27 141736" src="https://github.com/user-attachments/assets/2124400a-eb41-43a6-a83a-e146ed1aaf85" />
+
+<img width="810" height="807" alt="Screenshot 2026-08-27 141752" src="https://github.com/user-attachments/assets/07883896-5c35-496c-8af2-b0b858a53e08" />
+
+<img width="735" height="581" alt="Screenshot 2026-08-27 141806" src="https://github.com/user-attachments/assets/8db56d68-649f-44fc-b540-53647ca720cb" />
+
+<img width="1140" height="847" alt="Screenshot 2026-08-27 141823" src="https://github.com/user-attachments/assets/5efdbc2b-912d-4dfe-87a3-cb7061fc2013" />
+
+<img width="1268" height="925" alt="Screenshot 2026-08-26 154112" src="https://github.com/user-attachments/assets/8bbbbbb7-e0be-42f9-a557-134d32bbb15c" />
+
+### Name: KRITHIKAA P
+### Register Number: 212225040193
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
